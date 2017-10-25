@@ -24,9 +24,16 @@ copy allows pulling remote without affecting local changes committed
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I would send and receive snippets of modified codes. The easier part would
+be not having to deal with GitHub interface or us Git commands. The harder part
+would be (1) to figure out exact changes and where the changes were made, (2) to
+track details of changes and who made the changes.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    I would make changes in a separate branch when I am collaborating with
+others on GitHub. This way, I can ensure that only the changes approved by
+others on GitHub are applied to the master. Benefit of this approach
+is that any changes to master are likely to to be "good enough". On the other
+hand, changing the master branch directly is procedurally less complicated.
